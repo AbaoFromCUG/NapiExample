@@ -1,0 +1,16 @@
+{
+  "name": "NapiExample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cmake-js": "^6.1.0",
+    "jest": "^27.0.6",
+    "node-addon-api": "^4.0.0"
+  }
+}

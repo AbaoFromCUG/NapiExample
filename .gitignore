@@ -1,0 +1,12 @@
+
+/build/
+
+# jest
+/coverage
+
+# Clion
+/.idea
+/cmake-build-*/
+
+# node
+node_modules
